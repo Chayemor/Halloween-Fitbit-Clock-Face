@@ -1,0 +1,21 @@
+
+msgid "0"
+msgstr "日"
+
+msgid "1"
+msgstr "一"
+
+msgid "2"
+msgstr "二"
+
+msgid "3"
+msgstr "三"
+
+msgid "4"
+msgstr "四"
+
+msgid "5"
+msgstr "五"
+
+msgid "6"
+msgstr "六"

@@ -1,0 +1,21 @@
+
+msgid "0"
+msgstr "DOM"
+
+msgid "1"
+msgstr "LUN"
+
+msgid "2"
+msgstr "MAR"
+
+msgid "3"
+msgstr "MIE"
+
+msgid "4"
+msgstr "JUE"
+
+msgid "5"
+msgstr "VIE"
+
+msgid "6"
+msgstr "SAB"

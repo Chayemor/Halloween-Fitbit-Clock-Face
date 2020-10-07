@@ -1,0 +1,21 @@
+
+msgid "0"
+msgstr "MIN"
+
+msgid "1"
+msgstr "SEN"
+
+msgid "2"
+msgstr "SEL"
+
+msgid "3"
+msgstr "RAB"
+
+msgid "4"
+msgstr "KAM"
+
+msgid "5"
+msgstr "JUM"
+
+msgid "6"
+msgstr "SAB"

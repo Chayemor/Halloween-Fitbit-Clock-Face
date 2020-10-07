@@ -1,0 +1,21 @@
+
+msgid "0"
+msgstr "SUN"
+
+msgid "1"
+msgstr "MON"
+
+msgid "2"
+msgstr "TUE"
+
+msgid "3"
+msgstr "WED"
+
+msgid "4"
+msgstr "THU"
+
+msgid "5"
+msgstr "FRI"
+
+msgid "6"
+msgstr "SAT"

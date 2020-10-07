@@ -1,0 +1,44 @@
+/*
+COMMON
+*/
+text { 
+  font-family: System-Bold; 
+  font-size: 22;
+  fill: darkorange;
+}
+
+
+/*
+ELEMENTS
+*/
+#clock_time {
+  font-size: 50;
+  text-length: 22;
+  text-anchor: middle;
+}
+#clock_ampm {
+  font-family: System-Light;
+  font-size: 23;
+}
+
+#date {
+  text-length: 20;
+  text-anchor: middle;
+}
+
+#steps {
+  text-length: 40;
+}
+
+#battery {
+  text-length: 15;
+  font-size: 18;
+}
+
+/*
+ICONS
+*/
+.icon {
+  width: 18;
+  height: 18;
+}

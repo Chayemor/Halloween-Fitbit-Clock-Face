@@ -1,0 +1,21 @@
+
+msgid "0"
+msgstr "DIM"
+
+msgid "1"
+msgstr "LUN"
+
+msgid "2"
+msgstr "MAR"
+
+msgid "3"
+msgstr "MER"
+
+msgid "4"
+msgstr "JEU"
+
+msgid "5"
+msgstr "VEN"
+
+msgid "6"
+msgstr "SAM"

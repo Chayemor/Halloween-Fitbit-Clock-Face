@@ -1,0 +1,51 @@
+/*
+ELEMENTS
+*/
+#clock_time {
+  x: 275;
+  y: 120;
+}
+#clock_ampm {
+  x: 83%;
+  y: 80;
+}
+
+#date {
+  x: 275;
+  y: 140;
+}
+
+#steps {
+  x: 26;
+  y: 22;
+}
+#steps_icon {
+  x: 4;
+  y: 5;
+}
+
+#hrm {
+  x: 89%;
+  y: 22;
+}
+#hrm_icon {
+  x: 287;
+  y: 5;
+}
+
+#battery {
+  x: 22;
+  y: 96%;
+}
+#battery_icon {
+  x: 3;
+  y: 90%;
+}
+
+/*
+ICONS
+*/
+.icon {
+  width: 18;
+  height: 18;
+}

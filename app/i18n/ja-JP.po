@@ -1,0 +1,21 @@
+
+msgid "0"
+msgstr "日"
+
+msgid "1"
+msgstr "月"
+
+msgid "2"
+msgstr "火"
+
+msgid "3"
+msgstr "水"
+
+msgid "4"
+msgstr "木"
+
+msgid "5"
+msgstr "金"
+
+msgid "6"
+msgstr "土"

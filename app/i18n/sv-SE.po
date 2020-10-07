@@ -1,0 +1,21 @@
+
+msgid "0"
+msgstr "sö"
+
+msgid "1"
+msgstr "må"
+
+msgid "2"
+msgstr "ti"
+
+msgid "3"
+msgstr "on"
+
+msgid "4"
+msgstr "to"
+
+msgid "5"
+msgstr "fre"
+
+msgid "6"
+msgstr "lö"

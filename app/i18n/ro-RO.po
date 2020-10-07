@@ -1,0 +1,21 @@
+
+msgid "0"
+msgstr "Duminică"
+
+msgid "1"
+msgstr "Luni"
+
+msgid "2"
+msgstr "Marți"
+
+msgid "3"
+msgstr "Miercuri"
+
+msgid "4"
+msgstr "Joi"
+
+msgid "5"
+msgstr "Vineri"
+
+msgid "6"
+msgstr "Sâmbătă"

@@ -1,0 +1,62 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "fitbit": {
+    "appUUID": "94318393-6893-4ca1-b4fd-0971e1e84b23",
+    "appType": "clockface",
+    "appDisplayName": "Halloween Pumpkin",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate",
+      "access_sleep"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "mira",
+      "gemini"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Halloween Pumpkin"
+      },
+      "de-DE": {
+        "name": "Halloween Kürbis"
+      },
+      "es-ES": {
+        "name": "Halloween Calabaza"
+      },
+      "fr-FR": {
+        "name": "Citrouille d'Halloween"
+      },
+      "it-IT": {
+        "name": "Zucca di Halloween"
+      },
+      "ru-RU": {
+        "name": "Тыква на хэллоуин"
+      },
+      "ja-JP": {
+        "name": "ハロウィーンのカボチャ"
+      },
+      "ko-KR": {
+        "name": "할로윈 호박"
+      },
+      "zh-CN": {
+        "name": "万圣节南瓜"
+      },
+      "id-ID": {
+        "name": "Labu Halloween"
+      },
+      "ro-RO": {
+        "name": "Dovleac de Halloween"
+      },
+      "pl-PL": {
+        "name": "Dynia Halloween"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

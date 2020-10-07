@@ -1,0 +1,16 @@
+<svg>
+  <image href="images/fitbitface.jpg" />
+  
+  <text id="clock_ampm"></text>
+  <text id="clock_time"></text>
+  <text id="date"></text>
+  
+  <image class="icon" id="hrm_icon" href="images/fitbitface_hrm.png" />
+  <text id="hrm"></text>
+  
+  <image class="icon" id="steps_icon" href="images/fitbitface_step.png" />
+  <text id="steps"></text>
+  
+  <image class="icon" id="battery_icon" href="images/fitbitface_battery.png" />
+  <text id="battery"></text>
+</svg>

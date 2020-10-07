@@ -1,0 +1,21 @@
+
+msgid "0"
+msgstr "SO"
+
+msgid "1"
+msgstr "MO"
+
+msgid "2"
+msgstr "DI"
+
+msgid "3"
+msgstr "MI"
+
+msgid "4"
+msgstr "DO"
+
+msgid "5"
+msgstr "FR"
+
+msgid "6"
+msgstr "SA"

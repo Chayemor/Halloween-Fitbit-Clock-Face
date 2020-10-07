@@ -1,0 +1,21 @@
+
+msgid "0"
+msgstr "nie"
+
+msgid "1"
+msgstr "pon"
+
+msgid "2"
+msgstr "wt"
+
+msgid "3"
+msgstr "śr"
+
+msgid "4"
+msgstr "czw"
+
+msgid "5"
+msgstr "pią"
+
+msgid "6"
+msgstr "sob"
